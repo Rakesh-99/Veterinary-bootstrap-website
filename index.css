@@ -1,0 +1,110 @@
+*{
+    font-style: calibri;
+}
+
+.navbar-brand img{
+    width: 4pc;
+}
+.spncls{
+    font-weight: 600;
+    color: white;
+    padding-left: 12px;
+}
+.navbar{
+    padding: 0 8%;
+}
+.ulClass li{
+    padding: 0 10px;
+}
+#searchBox{
+    background:#e9c794;
+    border: 1px solid transparent;
+    color: white;
+    box-shadow: 5px 5px 5px #00000021;
+}
+#searchBox::placeholder{
+    color: white;
+}
+#banner{
+    background-color: #fcc302;
+    
+}
+#col1Id{
+    margin-top: 100px;
+}
+#pId{
+    font-size: 20px;
+    font-family: calibri;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#headId{
+    font-family: calibri;
+    color: white;
+    font-size: 50px;
+    margin-top: 20px;
+}
+#lBtn1{
+    background-color:#00bec9;
+    color: white;
+    margin-right: 15px;
+    border: 2px solid #00bec9;
+}
+#lBtn2{
+    background-color: #fcc302;
+    border: 2px solid white;
+    color: white;
+    
+}
+#dogImage{
+    width: 500px;
+}
+#second-row{
+    margin-top: 100px;
+}
+#serBtn{
+    background-color: #fcc302;
+    border: 2px solid #fcc302;
+    color: white;
+}
+#third-row{
+    margin-top: 100px;
+    background: url(images/yellow.jpg);
+    padding: 80px 0;
+     
+}
+#fourthRow{
+    margin-top: 100px;
+}
+#hdOne{
+    font-size: 40px;
+}
+#praOne{
+    font-weight: 400;
+}
+.peeCls a{
+    text-decoration: none;
+}
+.containData{
+    box-shadow: 5px 5px 10px grey;
+}
+#lwBtn{
+    background-color:#00bec9 ;
+    border: 1px solid #00bec9;
+    padding: 4px 20px;
+    position: relative;
+    /* left: -60px; */
+    color: white;
+    
+}
+ input{
+    padding: 4px 20px;
+    background-color: #fcc302;
+    color: whiite;
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
